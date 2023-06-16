@@ -1,0 +1,10 @@
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\bin\Debug\TranslationUnifier.exe.config
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\bin\Debug\TranslationUnifier.exe
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\bin\Debug\TranslationUnifier.pdb
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\obj\Debug\TranslationUnifier.csproj.AssemblyReference.cache
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\obj\Debug\TranslationUnifier.csproj.CoreCompileInputs.cache
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\obj\Debug\TranslationUnifier.exe
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\obj\Debug\TranslationUnifier.pdb
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Marcin\source\repos\TranslationUnifier\TranslationUnifier\obj\Debug\TranslationUnifier.csproj.CopyComplete
